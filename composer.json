@@ -1,0 +1,19 @@
+{
+    "name": "quickboilerplate/laravel",
+    "description": "The Laravel stub files for QuickBoilerplate",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quickboilerplate\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saranga Abeykoon",
+            "email": "amisaranga@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
